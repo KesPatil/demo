@@ -11,3 +11,5 @@ This is bound to cause trouble.
 Just someething 
 
 Updates in stage
+
+More updates in the working directory
